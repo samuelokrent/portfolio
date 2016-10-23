@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/fa16-cs242/sokrent2">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="2378">
+<author>sokrent2</author>
+<date>2016-09-01T01:02:46.471659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.classpath</name>
+<size>412</size>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+</list>
+</lists>

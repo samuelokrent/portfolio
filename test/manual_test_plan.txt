@@ -1,0 +1,52 @@
+======== MANUAL TEST PLAN, ASSIGNMENT 3.2 ========
+
+Commenting:
+	
+	1. Start the server with the command 'node index.js 3333'
+	2. Navigate to http://localhost:3333/projects?path=Assignment1.2/.classpath
+		in your browser.
+	3. In the inputs labeled 'Author' and 'Comment', enter the text 'test' and 'test'.
+	4. Click the button labeled 'Submit'
+	5. Verify that the page does not reload
+	6. Verify that a new comment appears on the page that reads:
+		'test: test (on YYYY-MM-DDTHH:MM:SS.mmmZ)'
+		(Where timestamp is replaced with current time)
+		- View file 'comment.png' for example
+	7. Reload the page
+	8. Verify that the comment you just created is still there
+
+JQuery Interactive Elements:
+	
+	1. Start the server with the command 'node index.js 3333'
+	2. Navigate to http://localhost:3333/projects?path=Assignment1.2
+		in your browser.
+	3. Hover the mouse over the link reading ".classpath"
+	4. Verify that text appears on the right side of the screen
+		displaying information on the file.
+		- View image "interactive.png" for example of correct
+			appearance)
+	5. Now hover the mouse over the link on the left side that says
+		"README.md"
+	6. Verify that the text on the right side of the screen
+		gets updated to display information regarding
+		README.md
+
+
+File loading:
+
+	1. Start the server with the command 'node index.js 3333'
+	2. Navigate to http://localhost:3333/projects?path=Assignment1.2
+		in your browser.
+	3. Hover the mouse over the link reading ".classpath"
+	4. Click the link on the right side of the screen that says "View"
+	5. Verify that the page does not reload
+	6. Verify that the file contents are displayed in the bottom part of
+		the screen
+		- View file 'example_file_1.txt' for correct file contents
+	7. Now hover the mouse over the link on the left side that says
+		"README.md"
+	8. Click the link labeled "View" on the right side of the screen
+	9. Verify that the page does not reload.
+	10. Verify that "README.md"'s contents replace ".classpath"'s in
+		the bottom portion of the screen.
+		- View file 'example_file_2.txt' for correct file contents

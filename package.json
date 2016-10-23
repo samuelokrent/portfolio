@@ -1,0 +1,24 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Samuel Okrent's web portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test/*",
+    "start": "node index.js 3333"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "fs": "0.0.1-security",
+    "iconv-lite": "^0.4.13",
+    "mime-db": "^1.24.0",
+    "mocha": "^3.1.2",
+    "ms": "^0.7.1",
+    "mysql": "^2.11.1",
+    "pug": "^2.0.0-beta6",
+    "xml2js": "^0.4.17"
+  }
+}

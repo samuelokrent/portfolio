@@ -1,0 +1,94 @@
+| <!--DOCTYPE html-->
+| <!--
+|	 html skeleton taken from: https://codeforgeek.com/2015/01/render-html-file-expressjs/
+| -->
+| <html>
+| 
+|	 <head>
+|		<link rel="stylesheet" href="css/bootstrap.min.css" />
+|		<script src="scripts/bootstrap.min.js" ></script>
+|		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+|		<script src="scripts/comments.js"></script>
+| 		<script>
+|		$(document).ready(function() {
+|			$('.entry').mouseover(function() {
+|				$('.info').hide();
+|				$('#' + $(this).data('name')).show();
+|			});
+|			$('.view_button').click(function() {
+|				$.get('/file?path=' + $(this).data('path'), function(data) {
+|					if((typeof data) == 'string') 
+|						data = data.split('<').join('&lt;').split('>').join('&gt;').split('\n').join('<br>');
+|					$('#file_display').html(data);
+|					$('#file_display').show();
+|				});
+|			});
+|		});
+|		</script>
+|		<style>
+|			.info p {
+|				margin:0;
+|			}
+|		</style>
+|	 </head>
+| 
+|	 <body>
+|	 <div>
+|		 <nav class="navbar navbar-inverse navbar-static-top">
+|			 <div class="container">
+|				 <a class="navbar-brand" href="/">Portfolio</a>
+|				 <ul class="nav navbar-nav">
+|					 <li>
+|						 <a href="/">Home</a>
+|					 </li>
+|					 <li class="active">
+|						 <a href="/projects">Projects</a>
+|					 </li>
+|				 </ul>
+|			 </div>
+|		 </nav>
+|		 <div class="jumbotron"  style="padding:40px; margin: 0 100 0 100;">
+|			 <h1>Projects</h1>
+
+
+div(style="float:left;width:40%")
+	input(type="hidden", id="path", value=entry.getFullPath())
+	p
+		if entry.parent
+			a(href=getUrl(entry.parent))= '< '
+		= entry.getFullPath()
+	ul
+		-
+		if entry.entries
+			each e in entry.entries
+				li(class="entry", data-name=e.getIdentifier())
+					a(href=getUrl(e)) #{e.getTitle()}
+					= ' - ' + e.getSummary()
+-
+if entry.entries
+	each e in entry.entries	
+		div(class="info", id=e.getIdentifier(), data-path=e.getFullPath(),style="float:right;display:none;width:60%;")
+			p Name: #{e.getTitle()}
+			p Date: #{e.getDate()}
+			p Version: #{e.getVersion()}
+			p Summary: #{e.getSummary()}
+			if e.size
+				p Size: #{e.size}B
+			p Type: #{e.getType()}
+			p Path: #{e.getFullPath()}
+			if e.type != 'dir'
+				a(class="view_button", data-path=e.getFullPath()) View
+			p Versions
+				ul
+					-
+					each commit in e.commits
+						li #{commit.number} by #{commit.author} on #{commit.date.toLocaleString()}: #{commit.message}
+br(style="clear:both;")
+div(style="display:none;width:100%;background-color:#f5f5f5;", id="file_display")
+if entry.type == 'file'
+	div(class="comments", data-file=entry.getFullPath())
+|		 </div>
+|	 </div>
+|	 </body>
+| 
+| </html>

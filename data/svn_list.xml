@@ -1,0 +1,2724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/fa16-cs242/sokrent2">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="2378">
+<author>sokrent2</author>
+<date>2016-09-01T01:02:46.471659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.classpath</name>
+<size>412</size>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.project</name>
+<size>362</size>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.settings</name>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>629</size>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/COPYING</name>
+<size>18011</size>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/bin</name>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/bin/lanSimulation</name>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bin/lanSimulation/LANSimulation.class</name>
+<size>4548</size>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bin/lanSimulation/Network.class</name>
+<size>7335</size>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/bin/lanSimulation/internals</name>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bin/lanSimulation/internals/Node.class</name>
+<size>2751</size>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bin/lanSimulation/internals/Packet.class</name>
+<size>717</size>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/bin/lanSimulation/tests</name>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</name>
+<size>1082</size>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bin/lanSimulation/tests/LANTests.class</name>
+<size>9669</size>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/doc</name>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/doc/LANSimulationDocument.pdf</name>
+<size>36375</size>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/doc/README</name>
+<size>1230</size>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/doc/RefactoringAssignment.pdf</name>
+<size>139491</size>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/doc/toDoList</name>
+<size>1772</size>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/expectedOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/javadoc.xml</name>
+<size>393</size>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/sample_code</name>
+<commit
+   revision="2378">
+<author>sokrent2</author>
+<date>2016-09-01T01:02:46.471659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/sample_code/Cube.java</name>
+<size>11810</size>
+<commit
+   revision="2378">
+<author>sokrent2</author>
+<date>2016-09-01T01:02:46.471659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/sample_code/Solver.java</name>
+<size>14043</size>
+<commit
+   revision="2378">
+<author>sokrent2</author>
+<date>2016-09-01T01:02:46.471659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/sample_code/Test.java</name>
+<size>1609</size>
+<commit
+   revision="2378">
+<author>sokrent2</author>
+<date>2016-09-01T01:02:46.471659Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/src</name>
+<commit
+   revision="1334">
+<author>sokrent2</author>
+<date>2016-08-29T04:52:00.108237Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/src/lanSimulation</name>
+<commit
+   revision="1334">
+<author>sokrent2</author>
+<date>2016-08-29T04:52:00.108237Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/src/lanSimulation/LANSimulation.java</name>
+<size>5845</size>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/src/lanSimulation/Network.java</name>
+<size>11750</size>
+<commit
+   revision="1334">
+<author>sokrent2</author>
+<date>2016-08-29T04:52:00.108237Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/src/lanSimulation/internals</name>
+<commit
+   revision="1334">
+<author>sokrent2</author>
+<date>2016-08-29T04:52:00.108237Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/src/lanSimulation/internals/Node.java</name>
+<size>4171</size>
+<commit
+   revision="1334">
+<author>sokrent2</author>
+<date>2016-08-29T04:52:00.108237Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/src/lanSimulation/internals/Packet.java</name>
+<size>1828</size>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/src/lanSimulation/tests</name>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/src/lanSimulation/tests/LANTests.java</name>
+<size>10293</size>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/useOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="3651">
+<author>sokrent2</author>
+<date>2016-09-08T21:58:56.184982Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.classpath</name>
+<size>300</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/COMMIT_EDITMSG</name>
+<size>18</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/HEAD</name>
+<size>23</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/branches</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/config</name>
+<size>311</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/description</name>
+<size>73</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/hooks</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/hooks/applypatch-msg.sample</name>
+<size>452</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/hooks/commit-msg.sample</name>
+<size>896</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/hooks/post-update.sample</name>
+<size>189</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/hooks/pre-applypatch.sample</name>
+<size>398</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/hooks/pre-commit.sample</name>
+<size>1642</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/hooks/pre-push.sample</name>
+<size>1352</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/hooks/pre-rebase.sample</name>
+<size>4951</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/hooks/prepare-commit-msg.sample</name>
+<size>1239</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/hooks/update.sample</name>
+<size>3611</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/index</name>
+<size>978</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/info</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/info/exclude</name>
+<size>240</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/logs</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/logs/HEAD</name>
+<size>331</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/logs/refs</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/logs/refs/heads</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/logs/refs/heads/master</name>
+<size>331</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/logs/refs/remotes</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/logs/refs/remotes/origin</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/logs/refs/remotes/origin/master</name>
+<size>304</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/objects</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/objects/09</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/objects/09/1d2614950323d3e3c4e8c4eae325aec0fa3807</name>
+<size>1162</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/objects/2e</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/objects/2e/4404aee7543851a3a777e9d3f495993c63f82e</name>
+<size>500</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/objects/54</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/objects/54/ca04a89377ad439e5678458a87b313998a9071</name>
+<size>125</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/objects/55</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/objects/55/645505103a29d962bebc21e4ed882d65aa1ddc</name>
+<size>883</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/objects/68</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/objects/68/fdb34f352153bda5ee6a3a6b9e87d13650f6dc</name>
+<size>716</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/objects/74</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/objects/74/f50654e6b37b73176d188e319b39a1736391c8</name>
+<size>886</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/objects/76</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/objects/76/46299a52d8c556211ac8b56d585d387c7cf362</name>
+<size>1230</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/objects/7e</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/objects/7e/3fe65b03969d5153a1d9fe67d6a4866f2c16a2</name>
+<size>641</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/objects/82</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/objects/82/720f0de41791204bbef4c46a6c2af3332d66a6</name>
+<size>2859</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/objects/8c</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/objects/8c/4b6358502a1a9693d19c1d1aa444162f16b68e</name>
+<size>140</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/objects/99</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/objects/99/a19c17dc5b52cd06f84133afcc268595817e0f</name>
+<size>519</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/objects/a6</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/objects/a6/5b5f25e941e787568280e898423536286c0255</name>
+<size>381</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/objects/b1</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/objects/b1/b6f0eff62958c3ed205bba52f4b50f8e084af7</name>
+<size>581</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/objects/ba</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/objects/ba/d7c3b6bfc19c63b8be85d468d345a3a0af1192</name>
+<size>555</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/objects/be</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/objects/be/07272a3c7262d48bda856bcf9179897a7553c3</name>
+<size>606</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/objects/c3</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/objects/c3/892e6d80dfe779f91a48909ffc1066a92b6f23</name>
+<size>701</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/objects/df</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/objects/df/3eec844710a646b5667b061de956d618291d63</name>
+<size>1201</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/objects/e2</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/objects/e2/2ca3d1e93f9916c6681da75ee54d5669598e07</name>
+<size>2512</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/objects/f6</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/objects/f6/e8fa89d2b63d0bccecb973095425221f7ed17e</name>
+<size>161</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/objects/ff</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/objects/ff/f16c70627a9a96ce33b6e2c038199eaa49c152</name>
+<size>319</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/objects/info</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/objects/pack</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/refs</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/refs/heads</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/refs/heads/master</name>
+<size>41</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/refs/remotes</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/refs/remotes/origin</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.git/refs/remotes/origin/master</name>
+<size>41</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.git/refs/tags</name>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.gitignore</name>
+<size>6</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.project</name>
+<size>364</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/bin</name>
+<commit
+   revision="3393">
+<author>sokrent2</author>
+<date>2016-09-08T04:00:31.830671Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/.classpath</name>
+<size>300</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/.gitignore</name>
+<size>6</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/.project</name>
+<size>364</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/bin/chess</name>
+<commit
+   revision="3393">
+<author>sokrent2</author>
+<date>2016-09-08T04:00:31.830671Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Bishop.class</name>
+<size>1778</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Board$Spot.class</name>
+<size>2296</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Board.class</name>
+<size>2061</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Chess$ChessError.class</name>
+<size>398</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Chess$Color.class</name>
+<size>1472</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Chess$RowConfiguration.class</name>
+<size>625</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Chess.class</name>
+<size>1340</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Game$1.class</name>
+<size>1183</size>
+<commit
+   revision="3393">
+<author>sokrent2</author>
+<date>2016-09-08T04:00:31.830671Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Game$GameEventListener.class</name>
+<size>283</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Game.class</name>
+<size>8292</size>
+<commit
+   revision="3393">
+<author>sokrent2</author>
+<date>2016-09-08T04:00:31.830671Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/King.class</name>
+<size>1665</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Knight.class</name>
+<size>1833</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Pawn.class</name>
+<size>1885</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Piece.class</name>
+<size>3065</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Queen.class</name>
+<size>1794</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/RandomGame.class</name>
+<size>2715</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/Rook.class</name>
+<size>1714</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/bin/chess/tests</name>
+<commit
+   revision="3393">
+<author>sokrent2</author>
+<date>2016-09-08T04:00:31.830671Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/tests/BoardTests.class</name>
+<size>841</size>
+<commit
+   revision="3393">
+<author>sokrent2</author>
+<date>2016-09-08T04:00:31.830671Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/tests/ChessTests.class</name>
+<size>645</size>
+<commit
+   revision="3393">
+<author>sokrent2</author>
+<date>2016-09-08T04:00:31.830671Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/tests/GameTests.class</name>
+<size>1680</size>
+<commit
+   revision="3393">
+<author>sokrent2</author>
+<date>2016-09-08T04:00:31.830671Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/chess/tests/PieceTests.class</name>
+<size>1263</size>
+<commit
+   revision="3393">
+<author>sokrent2</author>
+<date>2016-09-08T04:00:31.830671Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/chess</name>
+<commit
+   revision="3651">
+<author>sokrent2</author>
+<date>2016-09-08T21:58:56.184982Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/chess/Bishop.java</name>
+<size>1211</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/chess/Board.java</name>
+<size>3275</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/chess/Chess.java</name>
+<size>2234</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/chess/Game.java</name>
+<size>8197</size>
+<commit
+   revision="3393">
+<author>sokrent2</author>
+<date>2016-09-08T04:00:31.830671Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/chess/King.java</name>
+<size>991</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/chess/Knight.java</name>
+<size>1077</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/chess/Pawn.java</name>
+<size>1655</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/chess/Piece.java</name>
+<size>3292</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/chess/Queen.java</name>
+<size>1333</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/chess/RandomGame.java</name>
+<size>1252</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/chess/Rook.java</name>
+<size>1256</size>
+<commit
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/chess/tests</name>
+<commit
+   revision="3651">
+<author>sokrent2</author>
+<date>2016-09-08T21:58:56.184982Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/chess/tests/BoardTests.java</name>
+<size>452</size>
+<commit
+   revision="3393">
+<author>sokrent2</author>
+<date>2016-09-08T04:00:31.830671Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/chess/tests/ChessTests.java</name>
+<size>273</size>
+<commit
+   revision="3393">
+<author>sokrent2</author>
+<date>2016-09-08T04:00:31.830671Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/chess/tests/GameTests.java</name>
+<size>822</size>
+<commit
+   revision="3393">
+<author>sokrent2</author>
+<date>2016-09-08T04:00:31.830671Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/chess/tests/PieceTests.java</name>
+<size>834</size>
+<commit
+   revision="3651">
+<author>sokrent2</author>
+<date>2016-09-08T21:58:56.184982Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="4171">
+<author>sokrent2</author>
+<date>2016-09-13T04:26:06.134911Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.classpath</name>
+<size>300</size>
+<commit
+   revision="3999">
+<author>sokrent2</author>
+<date>2016-09-11T02:10:05.786595Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/.project</name>
+<size>372</size>
+<commit
+   revision="4056">
+<author>sokrent2</author>
+<date>2016-09-12T04:31:09.282216Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Doxyfile</name>
+<size>102980</size>
+<commit
+   revision="4056">
+<author>sokrent2</author>
+<date>2016-09-12T04:31:09.282216Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/README.md</name>
+<size>218</size>
+<commit
+   revision="4171">
+<author>sokrent2</author>
+<date>2016-09-13T04:26:06.134911Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/chess</name>
+<commit
+   revision="4171">
+<author>sokrent2</author>
+<date>2016-09-13T04:26:06.134911Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/chess/Bishop.java</name>
+<size>1213</size>
+<commit
+   revision="4158">
+<author>sokrent2</author>
+<date>2016-09-13T03:48:00.687360Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/chess/Board.java</name>
+<size>3275</size>
+<commit
+   revision="3999">
+<author>sokrent2</author>
+<date>2016-09-11T02:10:05.786595Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/chess/Chess.java</name>
+<size>2234</size>
+<commit
+   revision="3999">
+<author>sokrent2</author>
+<date>2016-09-11T02:10:05.786595Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/chess/FlipFlopper.java</name>
+<size>1845</size>
+<commit
+   revision="4056">
+<author>sokrent2</author>
+<date>2016-09-12T04:31:09.282216Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/chess/Game.java</name>
+<size>8234</size>
+<commit
+   revision="4056">
+<author>sokrent2</author>
+<date>2016-09-12T04:31:09.282216Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/chess/King.java</name>
+<size>991</size>
+<commit
+   revision="3999">
+<author>sokrent2</author>
+<date>2016-09-11T02:10:05.786595Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/chess/Knight.java</name>
+<size>1077</size>
+<commit
+   revision="3999">
+<author>sokrent2</author>
+<date>2016-09-11T02:10:05.786595Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/chess/MegaRook.java</name>
+<size>1367</size>
+<commit
+   revision="4056">
+<author>sokrent2</author>
+<date>2016-09-12T04:31:09.282216Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/chess/Pawn.java</name>
+<size>1655</size>
+<commit
+   revision="3999">
+<author>sokrent2</author>
+<date>2016-09-11T02:10:05.786595Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/chess/Piece.java</name>
+<size>3480</size>
+<commit
+   revision="4158">
+<author>sokrent2</author>
+<date>2016-09-13T03:48:00.687360Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/chess/Queen.java</name>
+<size>1333</size>
+<commit
+   revision="3999">
+<author>sokrent2</author>
+<date>2016-09-11T02:10:05.786595Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/chess/RandomGame.java</name>
+<size>1252</size>
+<commit
+   revision="3999">
+<author>sokrent2</author>
+<date>2016-09-11T02:10:05.786595Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/chess/Rook.java</name>
+<size>1256</size>
+<commit
+   revision="3999">
+<author>sokrent2</author>
+<date>2016-09-11T02:10:05.786595Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/chess/gui</name>
+<commit
+   revision="4158">
+<author>sokrent2</author>
+<date>2016-09-13T03:48:00.687360Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/chess/gui/BoardPanel.java</name>
+<size>807</size>
+<commit
+   revision="4158">
+<author>sokrent2</author>
+<date>2016-09-13T03:48:00.687360Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/chess/gui/ChessPlayer.java</name>
+<size>927</size>
+<commit
+   revision="4158">
+<author>sokrent2</author>
+<date>2016-09-13T03:48:00.687360Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/chess/gui/SpotPanel.java</name>
+<size>1685</size>
+<commit
+   revision="4158">
+<author>sokrent2</author>
+<date>2016-09-13T03:48:00.687360Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/chess/tests</name>
+<commit
+   revision="4171">
+<author>sokrent2</author>
+<date>2016-09-13T04:26:06.134911Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/chess/tests/BoardTests.java</name>
+<size>1406</size>
+<commit
+   revision="4056">
+<author>sokrent2</author>
+<date>2016-09-12T04:31:09.282216Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/chess/tests/ChessTests.java</name>
+<size>273</size>
+<commit
+   revision="3999">
+<author>sokrent2</author>
+<date>2016-09-11T02:10:05.786595Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/chess/tests/GameTests.java</name>
+<size>3776</size>
+<commit
+   revision="4171">
+<author>sokrent2</author>
+<date>2016-09-13T04:26:06.134911Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/chess/tests/PieceTests.java</name>
+<size>2746</size>
+<commit
+   revision="4171">
+<author>sokrent2</author>
+<date>2016-09-13T04:26:06.134911Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/gui_test_plan</name>
+<commit
+   revision="4166">
+<author>sokrent2</author>
+<date>2016-09-13T04:06:48.566657Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/gui_test_plan/plan.txt</name>
+<size>258</size>
+<commit
+   revision="4166">
+<author>sokrent2</author>
+<date>2016-09-13T04:06:48.566657Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/gui_test_plan/starting_board.png</name>
+<size>40979</size>
+<commit
+   revision="4166">
+<author>sokrent2</author>
+<date>2016-09-13T04:06:48.566657Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/icons</name>
+<commit
+   revision="4162">
+<author>sokrent2</author>
+<date>2016-09-13T03:58:36.007226Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/icons/BlackBishop.png</name>
+<size>790</size>
+<commit
+   revision="4162">
+<author>sokrent2</author>
+<date>2016-09-13T03:58:36.007226Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/icons/BlackKing.png</name>
+<size>1699</size>
+<commit
+   revision="4162">
+<author>sokrent2</author>
+<date>2016-09-13T03:58:36.007226Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/icons/BlackKnight.png</name>
+<size>1124</size>
+<commit
+   revision="4162">
+<author>sokrent2</author>
+<date>2016-09-13T03:58:36.007226Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/icons/BlackPawn.png</name>
+<size>526</size>
+<commit
+   revision="4162">
+<author>sokrent2</author>
+<date>2016-09-13T03:58:36.007226Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/icons/BlackQueen.png</name>
+<size>1632</size>
+<commit
+   revision="4162">
+<author>sokrent2</author>
+<date>2016-09-13T03:58:36.007226Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/icons/BlackRook.png</name>
+<size>417</size>
+<commit
+   revision="4162">
+<author>sokrent2</author>
+<date>2016-09-13T03:58:36.007226Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/icons/GFDL.txt</name>
+<size>20178</size>
+<commit
+   revision="4162">
+<author>sokrent2</author>
+<date>2016-09-13T03:58:36.007226Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/icons/LICENSE</name>
+<size>3220</size>
+<commit
+   revision="4162">
+<author>sokrent2</author>
+<date>2016-09-13T03:58:36.007226Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/icons/WhiteBishop.png</name>
+<size>1396</size>
+<commit
+   revision="4162">
+<author>sokrent2</author>
+<date>2016-09-13T03:58:36.007226Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/icons/WhiteKing.png</name>
+<size>1627</size>
+<commit
+   revision="4162">
+<author>sokrent2</author>
+<date>2016-09-13T03:58:36.007226Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/icons/WhiteKnight.png</name>
+<size>1325</size>
+<commit
+   revision="4162">
+<author>sokrent2</author>
+<date>2016-09-13T03:58:36.007226Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/icons/WhitePawn.png</name>
+<size>878</size>
+<commit
+   revision="4162">
+<author>sokrent2</author>
+<date>2016-09-13T03:58:36.007226Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/icons/WhiteQueen.png</name>
+<size>2057</size>
+<commit
+   revision="4162">
+<author>sokrent2</author>
+<date>2016-09-13T03:58:36.007226Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/icons/WhiteRook.png</name>
+<size>625</size>
+<commit
+   revision="4162">
+<author>sokrent2</author>
+<date>2016-09-13T03:58:36.007226Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="5645">
+<author>sokrent2</author>
+<date>2016-09-22T21:32:53.761894Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.classpath</name>
+<size>300</size>
+<commit
+   revision="5293">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:30.457782Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/.project</name>
+<size>372</size>
+<commit
+   revision="5400">
+<author>sokrent2</author>
+<date>2016-09-21T23:24:30.137267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/Doxyfile</name>
+<size>102980</size>
+<commit
+   revision="5295">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:31.540081Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/README.md</name>
+<size>323</size>
+<commit
+   revision="5632">
+<author>sokrent2</author>
+<date>2016-09-22T20:48:05.535634Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/build.sh</name>
+<size>75</size>
+<commit
+   revision="5632">
+<author>sokrent2</author>
+<date>2016-09-22T20:48:05.535634Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/chess</name>
+<commit
+   revision="5645">
+<author>sokrent2</author>
+<date>2016-09-22T21:32:53.761894Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/chess/Bishop.java</name>
+<size>1213</size>
+<commit
+   revision="5297">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:33.468066Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/chess/Board.java</name>
+<size>3275</size>
+<commit
+   revision="5297">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:33.468066Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/chess/Chess.java</name>
+<size>3047</size>
+<commit
+   revision="5433">
+<author>sokrent2</author>
+<date>2016-09-22T04:04:28.072923Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/chess/FlipFlopper.java</name>
+<size>1845</size>
+<commit
+   revision="5297">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:33.468066Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/chess/Game.java</name>
+<size>11406</size>
+<commit
+   revision="5632">
+<author>sokrent2</author>
+<date>2016-09-22T20:48:05.535634Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/chess/King.java</name>
+<size>991</size>
+<commit
+   revision="5297">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:33.468066Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/chess/Knight.java</name>
+<size>1077</size>
+<commit
+   revision="5297">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:33.468066Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/chess/MegaRook.java</name>
+<size>1367</size>
+<commit
+   revision="5297">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:33.468066Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/chess/Pawn.java</name>
+<size>1624</size>
+<commit
+   revision="5400">
+<author>sokrent2</author>
+<date>2016-09-21T23:24:30.137267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/chess/Piece.java</name>
+<size>3539</size>
+<commit
+   revision="5400">
+<author>sokrent2</author>
+<date>2016-09-21T23:24:30.137267Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/chess/Queen.java</name>
+<size>1333</size>
+<commit
+   revision="5297">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:33.468066Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/chess/RandomGame.java</name>
+<size>1561</size>
+<commit
+   revision="5433">
+<author>sokrent2</author>
+<date>2016-09-22T04:04:28.072923Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/chess/Rook.java</name>
+<size>1256</size>
+<commit
+   revision="5297">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:33.468066Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/chess/gui</name>
+<commit
+   revision="5645">
+<author>sokrent2</author>
+<date>2016-09-22T21:32:53.761894Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/chess/gui/BoardPanel.java</name>
+<size>1402</size>
+<commit
+   revision="5632">
+<author>sokrent2</author>
+<date>2016-09-22T20:48:05.535634Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/chess/gui/ChessPlayer.java</name>
+<size>10067</size>
+<commit
+   revision="5645">
+<author>sokrent2</author>
+<date>2016-09-22T21:32:53.761894Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/chess/gui/SpotPanel.java</name>
+<size>2283</size>
+<commit
+   revision="5632">
+<author>sokrent2</author>
+<date>2016-09-22T20:48:05.535634Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/chess/tests</name>
+<commit
+   revision="5297">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:33.468066Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/chess/tests/BoardTests.java</name>
+<size>1406</size>
+<commit
+   revision="5297">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:33.468066Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/chess/tests/ChessTests.java</name>
+<size>273</size>
+<commit
+   revision="5297">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:33.468066Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/chess/tests/GameTests.java</name>
+<size>3776</size>
+<commit
+   revision="5297">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:33.468066Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/chess/tests/PieceTests.java</name>
+<size>2746</size>
+<commit
+   revision="5297">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:33.468066Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/gui_test_plan</name>
+<commit
+   revision="5433">
+<author>sokrent2</author>
+<date>2016-09-22T04:04:28.072923Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/gui_test_plan/custom_starting_board.png</name>
+<size>52312</size>
+<commit
+   revision="5433">
+<author>sokrent2</author>
+<date>2016-09-22T04:04:28.072923Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/gui_test_plan/plan.txt</name>
+<size>4054</size>
+<commit
+   revision="5433">
+<author>sokrent2</author>
+<date>2016-09-22T04:04:28.072923Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/gui_test_plan/starting_board.png</name>
+<size>50135</size>
+<commit
+   revision="5433">
+<author>sokrent2</author>
+<date>2016-09-22T04:04:28.072923Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/icons</name>
+<commit
+   revision="5433">
+<author>sokrent2</author>
+<date>2016-09-22T04:04:28.072923Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/icons/BlackBishop.png</name>
+<size>790</size>
+<commit
+   revision="5299">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:35.202230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/icons/BlackFlipFlopper.png</name>
+<size>1421</size>
+<commit
+   revision="5433">
+<author>sokrent2</author>
+<date>2016-09-22T04:04:28.072923Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/icons/BlackKing.png</name>
+<size>1699</size>
+<commit
+   revision="5299">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:35.202230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/icons/BlackKnight.png</name>
+<size>1124</size>
+<commit
+   revision="5299">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:35.202230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/icons/BlackMegaRook.png</name>
+<size>409</size>
+<commit
+   revision="5433">
+<author>sokrent2</author>
+<date>2016-09-22T04:04:28.072923Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/icons/BlackPawn.png</name>
+<size>526</size>
+<commit
+   revision="5299">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:35.202230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/icons/BlackQueen.png</name>
+<size>1632</size>
+<commit
+   revision="5299">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:35.202230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/icons/BlackRook.png</name>
+<size>417</size>
+<commit
+   revision="5299">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:35.202230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/icons/GFDL.txt</name>
+<size>20178</size>
+<commit
+   revision="5299">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:35.202230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/icons/LICENSE</name>
+<size>3220</size>
+<commit
+   revision="5299">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:35.202230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/icons/WhiteBishop.png</name>
+<size>1396</size>
+<commit
+   revision="5299">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:35.202230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/icons/WhiteFlipFlopper.png</name>
+<size>2098</size>
+<commit
+   revision="5433">
+<author>sokrent2</author>
+<date>2016-09-22T04:04:28.072923Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/icons/WhiteKing.png</name>
+<size>1627</size>
+<commit
+   revision="5299">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:35.202230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/icons/WhiteKnight.png</name>
+<size>1325</size>
+<commit
+   revision="5299">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:35.202230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/icons/WhiteMegaRook.png</name>
+<size>596</size>
+<commit
+   revision="5433">
+<author>sokrent2</author>
+<date>2016-09-22T04:04:28.072923Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/icons/WhitePawn.png</name>
+<size>878</size>
+<commit
+   revision="5299">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:35.202230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/icons/WhiteQueen.png</name>
+<size>2057</size>
+<commit
+   revision="5299">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:35.202230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/icons/WhiteRook.png</name>
+<size>625</size>
+<commit
+   revision="5299">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:35.202230Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/run.sh</name>
+<size>34</size>
+<commit
+   revision="5632">
+<author>sokrent2</author>
+<date>2016-09-22T20:48:05.535634Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>CSAir</name>
+<commit
+   revision="6938">
+<author>sokrent2</author>
+<date>2016-10-06T21:59:54.531060Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>CSAir/.project</name>
+<size>359</size>
+<commit
+   revision="6156">
+<author>sokrent2</author>
+<date>2016-09-29T06:08:04.473695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>CSAir/.pydevproject</name>
+<size>461</size>
+<commit
+   revision="6156">
+<author>sokrent2</author>
+<date>2016-09-29T06:08:04.473695Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>CSAir/data</name>
+<commit
+   revision="6666">
+<author>sokrent2</author>
+<date>2016-10-05T23:06:27.562656Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>CSAir/data/cmi_hub.json</name>
+<size>1104</size>
+<commit
+   revision="6666">
+<author>sokrent2</author>
+<date>2016-10-05T23:06:27.562656Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>CSAir/data/map_data.json</name>
+<size>16828</size>
+<commit
+   revision="6156">
+<author>sokrent2</author>
+<date>2016-09-29T06:08:04.473695Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>CSAir/data/test_data.json</name>
+<size>812</size>
+<commit
+   revision="6156">
+<author>sokrent2</author>
+<date>2016-09-29T06:08:04.473695Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>CSAir/src</name>
+<commit
+   revision="6938">
+<author>sokrent2</author>
+<date>2016-10-06T21:59:54.531060Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>CSAir/src/csair.py</name>
+<size>6260</size>
+<commit
+   revision="6669">
+<author>sokrent2</author>
+<date>2016-10-05T23:36:11.136815Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>CSAir/src/csair_map.py</name>
+<size>12718</size>
+<commit
+   revision="6938">
+<author>sokrent2</author>
+<date>2016-10-06T21:59:54.531060Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>CSAir/src/graph.py</name>
+<size>8008</size>
+<commit
+   revision="6666">
+<author>sokrent2</author>
+<date>2016-10-05T23:06:27.562656Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>CSAir/src/graph_parser.py</name>
+<size>1522</size>
+<commit
+   revision="6669">
+<author>sokrent2</author>
+<date>2016-10-05T23:36:11.136815Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>CSAir/tests</name>
+<commit
+   revision="6937">
+<author>sokrent2</author>
+<date>2016-10-06T21:57:37.491632Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>CSAir/tests/csair_tests.py</name>
+<size>4421</size>
+<commit
+   revision="6937">
+<author>sokrent2</author>
+<date>2016-10-06T21:57:37.491632Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>CSAir/tests/graph_test.py</name>
+<size>4563</size>
+<commit
+   revision="6666">
+<author>sokrent2</author>
+<date>2016-10-05T23:06:27.562656Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>grocery</name>
+<commit
+   revision="1144">
+<author>sokrent2</author>
+<date>2016-08-28T20:47:53.378831Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>grocery/list1.txt</name>
+<size>56</size>
+<commit
+   revision="1128">
+<author>sokrent2</author>
+<date>2016-08-28T20:27:12.063862Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>grocery/list2.txt</name>
+<size>75</size>
+<commit
+   revision="1144">
+<author>sokrent2</author>
+<date>2016-08-28T20:47:53.378831Z</date>
+</commit>
+</entry>
+</list>
+</lists>

@@ -1,0 +1,2219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="6938">
+<author>sokrent2</author>
+<date>2016-10-06T21:59:54.531060Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sokrent2/CSAir/src/csair_map.py</path>
+</paths>
+<msg>more tests</msg>
+</logentry>
+<logentry
+   revision="6937">
+<author>sokrent2</author>
+<date>2016-10-06T21:57:37.491632Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sokrent2/CSAir/tests/csair_tests.py</path>
+</paths>
+<msg>more tests</msg>
+</logentry>
+<logentry
+   revision="6935">
+<author>sokrent2</author>
+<date>2016-10-06T21:53:54.369830Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sokrent2/CSAir/tests/csair_tests.py</path>
+</paths>
+<msg>more tests</msg>
+</logentry>
+<logentry
+   revision="6930">
+<author>sokrent2</author>
+<date>2016-10-06T21:49:24.474320Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sokrent2/CSAir/tests/csair_tests.py</path>
+</paths>
+<msg>more tests</msg>
+</logentry>
+<logentry
+   revision="6669">
+<author>sokrent2</author>
+<date>2016-10-05T23:36:11.136815Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sokrent2/CSAir/src/graph_parser.py</path>
+<path
+   kind="file"
+   action="M">/sokrent2/CSAir/src/csair_map.py</path>
+<path
+   kind="file"
+   action="M">/sokrent2/CSAir/src/csair.py</path>
+</paths>
+<msg>more</msg>
+</logentry>
+<logentry
+   revision="6666">
+<author>sokrent2</author>
+<date>2016-10-05T23:06:27.562656Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sokrent2/CSAir/tests/graph_test.py</path>
+<path
+   kind="file"
+   action="M">/sokrent2/CSAir/src/graph_parser.py</path>
+<path
+   kind="file"
+   action="M">/sokrent2/CSAir/src/csair_map.py</path>
+<path
+   kind="file"
+   action="M">/sokrent2/CSAir/src/csair.py</path>
+<path
+   kind="file"
+   action="M">/sokrent2/CSAir/src/graph.py</path>
+<path
+   kind="file"
+   action="A">/sokrent2/CSAir/data/cmi_hub.json</path>
+</paths>
+<msg>first of week 2</msg>
+</logentry>
+<logentry
+   revision="6178">
+<author>sokrent2</author>
+<date>2016-09-29T07:14:37.405052Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sokrent2/CSAir/src/csair.py</path>
+</paths>
+<msg>fix formatting</msg>
+</logentry>
+<logentry
+   revision="6177">
+<author>sokrent2</author>
+<date>2016-09-29T07:11:49.039527Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sokrent2/CSAir/src/csair_map.py</path>
+<path
+   kind="file"
+   action="A">/sokrent2/CSAir/tests/csair_tests.py</path>
+<path
+   kind="file"
+   action="M">/sokrent2/CSAir/src/csair.py</path>
+<path
+   kind="file"
+   action="M">/sokrent2/CSAir/src/graph.py</path>
+</paths>
+<msg>more tests</msg>
+</logentry>
+<logentry
+   revision="6161">
+<author>sokrent2</author>
+<date>2016-09-29T06:31:50.129046Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sokrent2/CSAir/src/csair_map.py</path>
+<path
+   kind="file"
+   action="M">/sokrent2/CSAir/src/csair.py</path>
+</paths>
+<msg>visualizer</msg>
+</logentry>
+<logentry
+   revision="6156">
+<author>sokrent2</author>
+<date>2016-09-29T06:08:04.473695Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sokrent2/CSAir/tests/graph_test.py</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/CSAir/data</path>
+<path
+   kind="file"
+   action="A">/sokrent2/CSAir/data/test_data.json</path>
+<path
+   kind="file"
+   action="A">/sokrent2/CSAir/src/graph_parser.py</path>
+<path
+   kind="file"
+   action="A">/sokrent2/CSAir/src/csair_map.py</path>
+<path
+   kind="file"
+   action="A">/sokrent2/CSAir/.pydevproject</path>
+<path
+   kind="file"
+   action="A">/sokrent2/CSAir/src/csair.py</path>
+<path
+   kind="file"
+   action="A">/sokrent2/CSAir/src/graph.py</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/CSAir</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/CSAir/tests</path>
+<path
+   kind="file"
+   action="A">/sokrent2/CSAir/.project</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/CSAir/src</path>
+<path
+   kind="file"
+   action="A">/sokrent2/CSAir/data/map_data.json</path>
+</paths>
+<msg>first</msg>
+</logentry>
+<logentry
+   revision="5645">
+<author>sokrent2</author>
+<date>2016-09-22T21:32:53.761894Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.2/chess/gui/ChessPlayer.java</path>
+</paths>
+<msg>more comments</msg>
+</logentry>
+<logentry
+   revision="5632">
+<author>sokrent2</author>
+<date>2016-09-22T20:48:05.535634Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.2/chess/gui/BoardPanel.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/build.sh</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.2/README.md</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/run.sh</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.2/chess/Game.java</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.2/chess/gui/SpotPanel.java</path>
+</paths>
+<msg>add build and run scripts, more comments</msg>
+</logentry>
+<logentry
+   revision="5433">
+<author>sokrent2</author>
+<date>2016-09-22T04:04:28.072923Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/icons/WhiteFlipFlopper.png</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.2/gui_test_plan/starting_board.png</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/icons/WhiteMegaRook.png</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.2/gui_test_plan/plan.txt</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.2/chess/Chess.java</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.2/chess/gui/ChessPlayer.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/gui_test_plan/custom_starting_board.png</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/icons/BlackFlipFlopper.png</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.2/chess/Game.java</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.2/chess/RandomGame.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/icons/BlackMegaRook.png</path>
+</paths>
+<msg>more features</msg>
+</logentry>
+<logentry
+   revision="5400">
+<author>sokrent2</author>
+<date>2016-09-21T23:24:30.137267Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.2/chess/gui/BoardPanel.java</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.2/.project</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.2/chess/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.2/chess/Piece.java</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.2/chess/gui/ChessPlayer.java</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.2/chess/Game.java</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.2/chess/gui/SpotPanel.java</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.2/chess/RandomGame.java</path>
+</paths>
+<msg>add main gui functionality</msg>
+</logentry>
+<logentry
+   revision="5300">
+<author>sokrent2</author>
+<date>2016-09-20T23:58:13.214822Z</date>
+<paths>
+<path
+   kind="dir"
+   action="M">/sokrent2/Assignment1.2</path>
+</paths>
+<msg>set ignore</msg>
+</logentry>
+<logentry
+   revision="5299">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:35.202230Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/icons/BlackPawn.png</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/icons/BlackKing.png</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/icons/WhiteBishop.png</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/icons/WhiteKnight.png</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/icons/WhitePawn.png</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/icons/BlackRook.png</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/icons/GFDL.txt</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/icons/WhiteKing.png</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/icons/BlackQueen.png</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/icons/WhiteRook.png</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.2/icons</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/icons/WhiteQueen.png</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/icons/LICENSE</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/icons/BlackBishop.png</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/icons/BlackKnight.png</path>
+</paths>
+<msg>importing</msg>
+</logentry>
+<logentry
+   revision="5298">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:34.022303Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/gui_test_plan/starting_board.png</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/gui_test_plan/plan.txt</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.2/gui_test_plan</path>
+</paths>
+<msg>importing</msg>
+</logentry>
+<logentry
+   revision="5297">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:33.468066Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/chess/tests/BoardTests.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/chess/Queen.java</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.2/chess</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/chess/FlipFlopper.java</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.2/chess/tests</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/chess/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/chess/Knight.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/chess/Piece.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/chess/Board.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/chess/King.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/chess/gui/SpotPanel.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/chess/tests/ChessTests.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/chess/gui/BoardPanel.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/chess/tests/GameTests.java</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.2/chess/gui</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/chess/MegaRook.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/chess/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/chess/Chess.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/chess/gui/ChessPlayer.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/chess/Game.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/chess/tests/PieceTests.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/chess/RandomGame.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/chess/Rook.java</path>
+</paths>
+<msg>importing</msg>
+</logentry>
+<logentry
+   revision="5296">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:32.031239Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/README.md</path>
+</paths>
+<msg>importing</msg>
+</logentry>
+<logentry
+   revision="5295">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:31.540081Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/Doxyfile</path>
+</paths>
+<msg>importing</msg>
+</logentry>
+<logentry
+   revision="5294">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:31.020313Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/.project</path>
+</paths>
+<msg>importing</msg>
+</logentry>
+<logentry
+   revision="5293">
+<author>sokrent2</author>
+<date>2016-09-20T23:51:30.457782Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.2</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.2/.classpath</path>
+</paths>
+<msg>importing</msg>
+</logentry>
+<logentry
+   revision="4171">
+<author>sokrent2</author>
+<date>2016-09-13T04:26:06.134911Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.1/chess/tests/GameTests.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/README.md</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.1/chess/tests/PieceTests.java</path>
+</paths>
+<msg>add readme</msg>
+</logentry>
+<logentry
+   revision="4166">
+<author>sokrent2</author>
+<date>2016-09-13T04:06:48.566657Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/gui_test_plan/starting_board.png</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/gui_test_plan/plan.txt</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/gui_test_plan</path>
+</paths>
+<msg>add gui test plan</msg>
+</logentry>
+<logentry
+   revision="4162">
+<author>sokrent2</author>
+<date>2016-09-13T03:58:36.007226Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/icons/WhitePawn.png</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/icons/BlackRook.png</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/icons/GFDL.txt</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/icons/BlackQueen.png</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/icons/WhiteRook.png</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/icons</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/icons/WhiteQueen.png</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/icons/BlackBishop.png</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/icons/BlackKnight.png</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/icons/BlackKing.png</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/icons/WhiteBishop.png</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/icons/WhiteKnight.png</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/icons/WhiteKing.png</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/icons/LICENSE</path>
+<path
+   kind="dir"
+   action="M">/sokrent2/Assignment1.1</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/icons/BlackPawn.png</path>
+</paths>
+<msg>add icons</msg>
+</logentry>
+<logentry
+   revision="4160">
+<author>sokrent2</author>
+<date>2016-09-13T03:51:58.532495Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/sokrent2/Assignment1.1/bin</path>
+</paths>
+<msg>remove bin</msg>
+</logentry>
+<logentry
+   revision="4159">
+<author>sokrent2</author>
+<date>2016-09-13T03:50:04.903966Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/sokrent2/Assignment1.1/.gitignore</path>
+</paths>
+<msg>remove .gitignore</msg>
+</logentry>
+<logentry
+   revision="4158">
+<author>sokrent2</author>
+<date>2016-09-13T03:48:00.687360Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/sokrent2/Assignment1.1/.git</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.1/.gitignore</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/chess/gui</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.1/chess/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.1/chess/Piece.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/chess/gui/ChessPlayer.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/chess/gui/SpotPanel.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/chess/gui/BoardPanel.java</path>
+</paths>
+<msg>basic gui</msg>
+</logentry>
+<logentry
+   revision="4056">
+<author>sokrent2</author>
+<date>2016-09-12T04:31:09.282216Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.1/chess/tests/BoardTests.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/Doxyfile</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.1/chess/tests/GameTests.java</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.1/.project</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/chess/FlipFlopper.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/chess/MegaRook.java</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.1/chess/Piece.java</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.1/chess/Game.java</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.1/chess/tests/PieceTests.java</path>
+<path
+   kind="dir"
+   action="M">/sokrent2/Assignment1.1</path>
+</paths>
+<msg>more tests</msg>
+</logentry>
+<logentry
+   revision="3999">
+<author>sokrent2</author>
+<date>2016-09-11T02:10:05.786595Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/chess/tests/BoardTests.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/objects/76/46299a52d8c556211ac8b56d585d387c7cf362</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/objects/8c</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/bin/chess/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/COMMIT_EDITMSG</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/refs/remotes/origin</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/chess/tests</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/chess/Knight.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/objects/e2/2ca3d1e93f9916c6681da75ee54d5669598e07</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/logs/refs/remotes/origin</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/bin/chess/tests/ChessTests.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/chess/King.java</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/refs/remotes</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/chess/tests/ChessTests.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/hooks/pre-commit.sample</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/objects/ff/f16c70627a9a96ce33b6e2c038199eaa49c152</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/logs/refs/remotes</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/bin/chess/Pawn.class</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/objects/68</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/objects</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/bin/chess/RandomGame.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/bin/chess/Rook.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/objects/74/f50654e6b37b73176d188e319b39a1736391c8</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/chess/RandomGame.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/chess/Rook.java</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/objects/a6</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/objects/e2</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/bin/chess/Game$GameEventListener.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/chess/Queen.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.gitignore</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/chess</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/bin/chess/Piece.class</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/objects/pack</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/bin/chess/Chess$RowConfiguration.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/objects/09/1d2614950323d3e3c4e8c4eae325aec0fa3807</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/chess/Board.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/hooks/prepare-commit-msg.sample</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/objects/68/fdb34f352153bda5ee6a3a6b9e87d13650f6dc</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/bin/chess/tests</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/bin/chess/Game$1.class</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/objects/df</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.project</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/objects/8c/4b6358502a1a9693d19c1d1aa444162f16b68e</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/description</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/hooks</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/objects/74</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/objects/info</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/objects/76</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/objects/b1/b6f0eff62958c3ed205bba52f4b50f8e084af7</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/chess/Pawn.java</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/info</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/objects/b1</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/bin/chess/tests/BoardTests.class</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/refs/tags</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/objects/2e</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.classpath</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/objects/55/645505103a29d962bebc21e4ed882d65aa1ddc</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/bin/chess/Knight.class</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/objects/f6</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/logs</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/objects/54/ca04a89377ad439e5678458a87b313998a9071</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/objects/df/3eec844710a646b5667b061de956d618291d63</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/index</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/bin</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/bin/chess/Board.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/chess/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/bin/chess/King.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/chess/Piece.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/bin/.gitignore</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/bin/chess</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/refs/heads/master</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/bin/chess/tests/GameTests.class</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/objects/09</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/objects/82</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/logs/refs/heads/master</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/chess/tests/GameTests.java</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/refs/heads</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/objects/f6/e8fa89d2b63d0bccecb973095425221f7ed17e</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/branches</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/bin/chess/Chess.class</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/logs/refs/heads</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/hooks/pre-rebase.sample</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/bin/chess/Game.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/bin/chess/Chess$ChessError.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/bin/chess/tests/PieceTests.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/bin/.project</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/hooks/applypatch-msg.sample</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/objects/c3</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/chess/tests/PieceTests.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/refs/remotes/origin/master</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/refs</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/HEAD</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/logs/refs</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/logs/refs/remotes/origin/master</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/objects/7e</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/objects/99/a19c17dc5b52cd06f84133afcc268595817e0f</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/config</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/logs/HEAD</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/hooks/pre-push.sample</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/objects/a6/5b5f25e941e787568280e898423536286c0255</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/bin/.classpath</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/hooks/post-update.sample</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/objects/82/720f0de41791204bbef4c46a6c2af3332d66a6</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/objects/7e/3fe65b03969d5153a1d9fe67d6a4866f2c16a2</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/objects/ba</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/objects/be</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/hooks/commit-msg.sample</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/objects/54</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/objects/ba/d7c3b6bfc19c63b8be85d468d345a3a0af1192</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/bin/chess/Board$Spot.class</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/objects/55</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/objects/2e/4404aee7543851a3a777e9d3f495993c63f82e</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/objects/ff</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/info/exclude</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/hooks/update.sample</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/objects/c3/892e6d80dfe779f91a48909ffc1066a92b6f23</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/bin/chess/Chess$Color.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/chess/Chess.java</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.1/.git/objects/99</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/objects/be/07272a3c7262d48bda856bcf9179897a7553c3</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/.git/hooks/pre-applypatch.sample</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/chess/Game.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.1/bin/chess/Queen.class</path>
+</paths>
+<msg>copy Assignment1.0</msg>
+</logentry>
+<logentry
+   revision="3651">
+<author>sokrent2</author>
+<date>2016-09-08T21:58:56.184982Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.0/chess/tests/PieceTests.java</path>
+</paths>
+<msg>more test</msg>
+</logentry>
+<logentry
+   revision="3393">
+<author>sokrent2</author>
+<date>2016-09-08T04:00:31.830671Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.0/chess/tests/GameTests.java</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.0/bin/chess/Game.class</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.0/bin/chess/tests/ChessTests.class</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.0/bin/chess/tests/PieceTests.class</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.0/bin/chess/tests/BoardTests.class</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.0/chess/Game.java</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.0/bin/chess/Game$1.class</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.0/bin/chess/tests/GameTests.class</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.0/chess/tests/ChessTests.java</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.0/chess/tests/PieceTests.java</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment1.0/chess/tests/BoardTests.java</path>
+</paths>
+<msg>add some unit tests</msg>
+</logentry>
+<logentry
+   revision="3386">
+<author>sokrent2</author>
+<date>2016-09-08T03:24:20.870644Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/chess/Queen.java</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/objects/8c</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/logs/refs</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/logs</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/COMMIT_EDITMSG</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/logs/HEAD</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/objects/99/a19c17dc5b52cd06f84133afcc268595817e0f</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/chess/tests</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/objects/a6/5b5f25e941e787568280e898423536286c0255</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/hooks/pre-push.sample</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/bin/chess/Board.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/bin/.classpath</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/chess/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/objects/7e/3fe65b03969d5153a1d9fe67d6a4866f2c16a2</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/objects/82/720f0de41791204bbef4c46a6c2af3332d66a6</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/hooks/prepare-commit-msg.sample</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/chess/Board.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/chess/King.java</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/bin/chess</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/chess/tests/ChessTests.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/objects/ba/d7c3b6bfc19c63b8be85d468d345a3a0af1192</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/bin/chess/Board$Spot.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/description</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/objects/2e/4404aee7543851a3a777e9d3f495993c63f82e</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.project</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/branches</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/bin/chess/Chess.class</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/objects/68</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/objects/c3/892e6d80dfe779f91a48909ffc1066a92b6f23</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/objects/be/07272a3c7262d48bda856bcf9179897a7553c3</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/bin/chess/tests/BoardTests.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/chess/Rook.java</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/objects/e2</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/objects/a6</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/refs</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/objects/76/46299a52d8c556211ac8b56d585d387c7cf362</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/HEAD</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/bin/chess/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/bin/chess/King.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/objects/e2/2ca3d1e93f9916c6681da75ee54d5669598e07</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/hooks/post-update.sample</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/chess/Piece.java</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/bin/chess/tests</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/objects/ff/f16c70627a9a96ce33b6e2c038199eaa49c152</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/logs/refs/remotes</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/objects/df</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/objects/74</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/info/exclude</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/objects/76</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/logs/refs/heads</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/hooks/pre-rebase.sample</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/bin/chess/Chess$ChessError.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/bin/chess/Game.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/chess/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/bin/chess/RandomGame.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/bin/chess/tests/PieceTests.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/bin/.project</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/objects/b1</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/hooks/applypatch-msg.sample</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/objects/74/f50654e6b37b73176d188e319b39a1736391c8</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/bin/chess/Queen.class</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/objects/2e</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/bin/chess/Game$GameEventListener.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/logs/refs/remotes/origin/master</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/objects/f6</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.gitignore</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/bin</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/logs/refs/remotes/origin</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/chess/Knight.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/objects/09/1d2614950323d3e3c4e8c4eae325aec0fa3807</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/bin/chess/Chess$RowConfiguration.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/objects/68/fdb34f352153bda5ee6a3a6b9e87d13650f6dc</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/refs/remotes</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/bin/chess/Game$1.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/bin/chess/tests/GameTests.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/hooks/commit-msg.sample</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/objects/09</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/objects/82</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/logs/refs/heads/master</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/hooks</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/refs/heads</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/objects/8c/4b6358502a1a9693d19c1d1aa444162f16b68e</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/hooks/update.sample</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/objects/b1/b6f0eff62958c3ed205bba52f4b50f8e084af7</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/chess/Chess.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/hooks/pre-applypatch.sample</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/refs/tags</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/objects/c3</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/chess/tests/PieceTests.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/chess/RandomGame.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/objects/55/645505103a29d962bebc21e4ed882d65aa1ddc</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/refs/remotes/origin/master</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.classpath</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/refs/remotes/origin</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/objects/7e</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/chess</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/bin/chess/Knight.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/objects/54/ca04a89377ad439e5678458a87b313998a9071</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/config</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/bin/chess/Piece.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/objects/df/3eec844710a646b5667b061de956d618291d63</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/index</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/objects/pack</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/bin/chess/tests/ChessTests.class</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/objects/ba</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/bin/.gitignore</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/refs/heads/master</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/objects/be</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/hooks/pre-commit.sample</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/objects/54</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/objects/55</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/chess/tests/GameTests.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/.git/objects/f6/e8fa89d2b63d0bccecb973095425221f7ed17e</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/objects/info</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/objects/ff</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/bin/chess/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/bin/chess/Chess$Color.class</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/objects</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/objects/99</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/bin/chess/Rook.class</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment1.0/.git/info</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/chess/Game.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment1.0/chess/tests/BoardTests.java</path>
+</paths>
+<msg>chess first</msg>
+</logentry>
+<logentry
+   revision="2379">
+<author>sokrent2</author>
+<date>2016-09-01T01:04:43.262997Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/sokrent2/Asssignment0</path>
+</paths>
+<msg>got rid of misspelling</msg>
+</logentry>
+<logentry
+   revision="2378">
+<author>sokrent2</author>
+<date>2016-09-01T01:02:46.471659Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment0/sample_code/Solver.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment0/sample_code/Cube.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment0/sample_code/Test.java</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment0/sample_code</path>
+</paths>
+<msg>sample code</msg>
+</logentry>
+<logentry
+   revision="2377">
+<author>sokrent2</author>
+<date>2016-09-01T01:02:13.220385Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/sokrent2/Asssignment0</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Asssignment0/sample_code/Solver.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Asssignment0/sample_code/Cube.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Asssignment0/sample_code/Test.java</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/Asssignment0/sample_code</path>
+</paths>
+<msg>sample code</msg>
+</logentry>
+<logentry
+   revision="1334">
+<author>sokrent2</author>
+<date>2016-08-29T04:52:00.108237Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment0/src/lanSimulation/Network.java</path>
+</paths>
+<msg>more refactors</msg>
+</logentry>
+<logentry
+   revision="1333">
+<author>sokrent2</author>
+<date>2016-08-29T04:47:27.933096Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/sokrent2/HW0</path>
+<path
+   kind="dir"
+   copyfrom-path="/sokrent2/HW0"
+   copyfrom-rev="1332"
+   action="A">/sokrent2/Assignment0</path>
+</paths>
+<msg>change to right name</msg>
+</logentry>
+<logentry
+   revision="1330">
+<author>sokrent2</author>
+<date>2016-08-29T04:23:46.596428Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/src/lanSimulation/internals/Packet.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/doc/README</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/src/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.settings</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/bin/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/src/lanSimulation/Network.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.project</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/bin/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/bin/lanSimulation</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/src</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/useOutput.txt</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/expectedOutput.txt</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.classpath</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/doc</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/javadoc.xml</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/doc/toDoList</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/src/lanSimulation/tests</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/bin</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/COPYING</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/doc/RefactoringAssignment.pdf</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/bin/lanSimulation/Network.class</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/bin/lanSimulation/tests</path>
+</paths>
+<msg>readd</msg>
+</logentry>
+<logentry
+   revision="1329">
+<author>sokrent2</author>
+<date>2016-08-29T04:22:49.827598Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/sokrent2/HW0/useOutput.txt</path>
+<path
+   kind="dir"
+   action="D">/sokrent2/HW0/.settings</path>
+<path
+   kind="file"
+   action="D">/sokrent2/HW0/.classpath</path>
+<path
+   kind="file"
+   action="D">/sokrent2/HW0/expectedOutput.txt</path>
+<path
+   kind="file"
+   action="D">/sokrent2/HW0/.project</path>
+<path
+   kind="dir"
+   action="D">/sokrent2/HW0/doc</path>
+<path
+   kind="file"
+   action="D">/sokrent2/HW0/javadoc.xml</path>
+<path
+   kind="dir"
+   action="D">/sokrent2/HW0/src</path>
+<path
+   kind="file"
+   action="D">/sokrent2/HW0/COPYING</path>
+<path
+   kind="dir"
+   action="D">/sokrent2/HW0/bin</path>
+</paths>
+<msg>clear directory</msg>
+</logentry>
+<logentry
+   revision="1156">
+<author>sokrent2</author>
+<date>2016-08-28T20:55:37.198536Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/sokrent2/HW0/.metadata</path>
+<path
+   kind="dir"
+   action="D">/sokrent2/HW0/HW0</path>
+</paths>
+<msg>deleted mistakes</msg>
+</logentry>
+<logentry
+   revision="1152">
+<author>sokrent2</author>
+<date>2016-08-28T20:52:56.295484Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/src/lanSimulation/internals/Packet.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/doc/README</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/src/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.settings</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/bin/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/src/lanSimulation/Network.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.project</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/bin/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/bin/lanSimulation</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/src</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/useOutput.txt</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/expectedOutput.txt</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.classpath</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/doc</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/javadoc.xml</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/doc/toDoList</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/src/lanSimulation/tests</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/bin</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/COPYING</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/doc/RefactoringAssignment.pdf</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/bin/lanSimulation/Network.class</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/bin/lanSimulation/tests</path>
+</paths>
+<msg>Adding hw 0 project</msg>
+</logentry>
+<logentry
+   revision="1149">
+<author>sokrent2</author>
+<date>2016-08-28T20:51:28.561542Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_1.tis</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/HW0</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.core.runtime/.settings</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.mylyn.context.core/contexts</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/version.ini</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/HW0/src/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.oomph.setup.ui</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/HW0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.fdt</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.core.resources/.root</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.mylyn/tasks.xml.zip</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.ui.intro/introstate</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.fdx</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.core.resources/.safetable</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.mylyn/repositories.xml.zip</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_1.fnm</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/HW0/.settings</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/HW0/bin/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/HW0/.project</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.debug.core</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_1.frq</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/HW0/bin/lanSimulation/internals</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/HW0/src</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_1.nrm</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.mylyn/contexts</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.mylyn/.taskListIndex/segments_1</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/HW0/.classpath</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.e4.workbench</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/HW0/doc/toDoList</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/segments_2</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.ui.workbench</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_1.prx</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/HW0/bin</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/HW0/src/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.core.resources</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/HW0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.mylyn.bugzilla.core</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.jdt.core</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.tii</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/HW0/bin/lanSimulation/Network.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.mylyn/.taskListIndex/segments.gen</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/HW0/bin/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.mylyn.context.core</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.tis</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/HW0/src/lanSimulation/internals/Packet.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/segments.gen</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/segments.gen</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.log</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.plugins</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.7.0.20160603-1933.xml</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.m2e.logback.configuration</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/HW0/doc/README</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/HW0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_1.fdt</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.fnm</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.ui.intro</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_1.fdx</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/HW0/src/lanSimulation/Network.java</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.mylyn.tasks.ui</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.frq</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/HW0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.mylyn</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/HW0/bin/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/_0.nrm</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.oomph.setup</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.mylyn/.taskListIndex</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/HW0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/HW0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/HW0/useOutput.txt</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/HW0/expectedOutput.txt</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/HW0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/segments_1</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.jdt.ui</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/HW0/doc</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/HW0/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.lock</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/HW0/javadoc.xml</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/HW0/COPYING</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/HW0/doc/RefactoringAssignment.pdf</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/local-history/write.lock</path>
+<path
+   kind="dir"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.core.runtime</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_1.tii</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup</path>
+<path
+   kind="file"
+   action="A">/sokrent2/HW0/.metadata/.mylyn/.tasks.xml.zip</path>
+</paths>
+<msg>Adding hw 0 project</msg>
+</logentry>
+<logentry
+   revision="1144">
+<author>sokrent2</author>
+<date>2016-08-28T20:47:53.378831Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sokrent2/grocery/list2.txt</path>
+</paths>
+<msg>Emphasize importance of carrot</msg>
+</logentry>
+<logentry
+   revision="1131">
+<author>sokrent2</author>
+<date>2016-08-28T20:30:35.292486Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sokrent2/grocery/list2.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="1128">
+<author>sokrent2</author>
+<date>2016-08-28T20:27:12.063862Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sokrent2/grocery/list1.txt</path>
+</paths>
+<msg>Need to buy more fruit</msg>
+</logentry>
+<logentry
+   revision="1124">
+<author>sokrent2</author>
+<date>2016-08-28T20:23:22.659944Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/sokrent2/grocery</path>
+<path
+   kind="file"
+   action="A">/sokrent2/grocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/sokrent2/grocery/list2.txt</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="156">
+<author>root</author>
+<date>2016-08-23T17:56:47.965905Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/sokrent2</path>
+</paths>
+<msg>created directory sokrent2</msg>
+</logentry>
+</log>

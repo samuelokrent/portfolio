@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+
+<logentry
+   revision="2377">
+<author>sokrent2</author>
+<date>2016-09-01T01:02:13.220385Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/sokrent2/Assignment0</path>
+<path
+   kind="file"
+   action="A">/sokrent2/Assignment0/.classpath</path>
+</paths>
+<msg>first</msg>
+</logentry>
+
+<logentry
+   revision="6938">
+<author>sokrent2</author>
+<date>2016-10-06T21:59:54.531060Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/sokrent2/Assignment0/.classpath</path>
+</paths>
+<msg>change classpath</msg>
+</logentry>
+
+</log>
